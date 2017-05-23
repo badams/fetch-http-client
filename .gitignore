@@ -2,7 +2,6 @@
 .npm/
 coverage/
 node_modules/
-lib/
 umd/
 logs
 *.log
